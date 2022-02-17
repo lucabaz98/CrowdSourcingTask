@@ -1,0 +1,40 @@
+html, body {
+  height: 100%;
+}
+
+body {
+  margin: 0;
+  font-family: Roboto, "Helvetica Neue", sans-serif;
+  background-color: rgba(0, 0, 0, .10);
+}
+
+.mat-horizontal-content-container {
+  padding-left: 0 !important;
+  padding-right: 0 !important;
+  overflow: visible !important;
+}
+
+.mat-radio-label {
+  white-space: normal !important;
+}
+
+.mat-radio-label {
+  white-space: normal !important;
+}
+
+.mat-card>.mat-card-actions:last-child {
+  margin-bottom: 0 !important;
+}
+
+.mat-dialog-container h2 {
+  font-weight: lighter;
+}
+
+.mat-dialog-container h2 {
+  padding-top: 1% !important;
+  padding-bottom: 1% !important;
+  border-top: 1px solid rgba(0,0,0,.12);
+  border-bottom: 1px solid rgba(0,0,0,.12);
+  font-weight: lighter !important;
+}
+
