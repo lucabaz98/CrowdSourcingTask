@@ -1,1 +1,2 @@
 # CrowdSourcingTask
+L’obiettivo del progetto consiste nel generare e dispiegare un task di crowdsourcing utilizzando il software Crowd_Frame , e nel raccogliere alcuni giudizi ed analizzare alcuni dati di esempio. Il task deve permettere a un Requester di raccogliere giudizi relativi a un insieme di libri. Più in dettaglio, lo scopo del Requester è quello di far valutare a un insieme di worker “l’appeal” di diverse edizioni dello stesso libro.
