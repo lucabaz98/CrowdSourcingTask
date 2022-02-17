@@ -1,0 +1,206 @@
+[
+  {
+    "unit_id": "unit_1",
+    "token_input": "AHSKKFW",
+    "token_output": "AJASOF1",
+    "documents": [
+      {
+        "title": "Le due città",
+        "author": "Charles Dickens",
+        "numberOfPages": "378",
+        "publisher": "Newton Compton Editori",
+        "price": "4,65",
+        "bookCover": "https://pubsocproject.s3.us-east-2.amazonaws.com/copertine/a1.jpg",
+        "yearOfPublication": "2016"
+      },
+      {
+        "title": "Il nome della rosa",
+        "author": "Umberto Eco",
+        "numberOfPages": "672",
+        "publisher": "La nave di Teseo",
+        "price": "18",
+        "bookCover": "https://pubsocproject.s3.us-east-2.amazonaws.com/copertine/b2.jpg",
+        "yearOfPublication": "2020"
+      },
+      {
+        "title": "Le avventure di Pinocchio",
+        "author": "C. Collodi",
+        "numberOfPages": "256",
+        "publisher": "Piemme",
+        "price": "7,50",
+        "bookCover": "https://pubsocproject.s3.us-east-2.amazonaws.com/copertine/c3.jpg",
+        "yearOfPublication": "2020"
+      }
+    ]
+  },
+  {
+    "unit_id": "unit_2",
+    "token_input": "BJDONDN",
+    "token_output": "BJSJSN1",
+    "documents": [
+      {
+        "title": "Il nome della rosa",
+        "author": "Umberto Eco",
+        "numberOfPages": "672",
+        "publisher": "La nave di Teseo",
+        "price": "18",
+        "bookCover": "https://pubsocproject.s3.us-east-2.amazonaws.com/copertine/b2.jpg",
+        "yearOfPublication": "2020"
+      },
+      {
+        "title": "Le due città",
+        "author": "Charles Dickens",
+        "numberOfPages": "454",
+        "publisher": "BUR Biblioteca Univ. Rizzoli",
+        "price": "10,45",
+        "bookCover": "https://pubsocproject.s3.us-east-2.amazonaws.com/copertine/a3.jpg",
+        "yearOfPublication": "2012"
+      },
+      {
+        "title": "Le avventure di Pinocchio",
+        "author": "C. Collodi",
+        "numberOfPages": "211",
+        "publisher": "Mondadori",
+        "price": "9,97",
+        "bookCover": "https://pubsocproject.s3.us-east-2.amazonaws.com/copertine/c2.jpg",
+        "yearOfPublication": "2012"
+      }
+    ]
+  },
+  {
+    "unit_id": "unit_3",
+    "token_input": "CIEANCO",
+    "token_output": "CANCDI1",
+    "documents": [
+      {
+        "title": "Le avventure di Pinocchio",
+        "author": "C. Collodi",
+        "numberOfPages": "313",
+        "publisher": "Einaudi",
+        "price": "71,25",
+        "bookCover": "https://pubsocproject.s3.us-east-2.amazonaws.com/copertine/c1.jpg",
+        "yearOfPublication": "2008"
+      },
+      {
+        "title": "Il nome della rosa",
+        "author": "Umberto Eco",
+        "numberOfPages": "542",
+        "publisher": "Bompiani",
+        "price": "187,90",
+        "bookCover": "https://pubsocproject.s3.us-east-2.amazonaws.com/copertine/b1.jpg",
+        "yearOfPublication": "1980"
+      },
+      {
+        "title": "Le due città",
+        "author": "Charles Dickens",
+        "numberOfPages": "412",
+        "publisher": "CreateSpace Independent Publishing Platform",
+        "price": "11,43",
+        "bookCover": "https://pubsocproject.s3.us-east-2.amazonaws.com/copertine/a2.jpg",
+        "yearOfPublication": "2016"
+      }
+    ]
+  },
+  {
+    "unit_id": "unit_4",
+    "token_input": "DNEHDOA",
+    "token_output": "DKDKPS1",
+    "documents": [
+      {
+        "title": "Le due città",
+        "author": "Charles Dickens",
+        "numberOfPages": "454",
+        "publisher": "BUR Biblioteca Univ. Rizzoli",
+        "price": "10,45",
+        "bookCover": "https://pubsocproject.s3.us-east-2.amazonaws.com/copertine/a3.jpg",
+        "yearOfPublication": "2012"
+      },
+      {
+        "title": "Le avventure di Pinocchio",
+        "author": "C. Collodi",
+        "numberOfPages": "211",
+        "publisher": "Mondadori",
+        "price": "9,97",
+        "bookCover": "https://pubsocproject.s3.us-east-2.amazonaws.com/copertine/c2.jpg",
+        "yearOfPublication": "2012"
+      },
+      {
+        "title": "Il nome della rosa",
+        "author": "Umberto Eco",
+        "numberOfPages": "542",
+        "publisher": "Bompiani",
+        "price": "187,90",
+        "bookCover": "https://pubsocproject.s3.us-east-2.amazonaws.com/copertine/b1.jpg",
+        "yearOfPublication": "1980"
+      }
+    ]
+  },
+  {
+    "unit_id": "unit_5",
+    "token_input": "EMJSPEF",
+    "token_output": "EMAPSE1",
+    "documents": [
+      {
+        "title": "Il nome della rosa",
+        "author": "Umberto Eco",
+        "numberOfPages": "719",
+        "publisher": "Bompiani",
+        "price": "16,00",
+        "bookCover": "https://pubsocproject.s3.us-east-2.amazonaws.com/copertine/b3.jpg",
+        "yearOfPublication": "2012"
+      },
+      {
+        "title": "Le avventure di Pinocchio",
+        "author": "C. Collodi",
+        "numberOfPages": "313",
+        "publisher": "Einaudi",
+        "price": "71,25",
+        "bookCover": "https://pubsocproject.s3.us-east-2.amazonaws.com/copertine/c3.jpg",
+        "yearOfPublication": "2008"
+      },
+      {
+        "title": "Le due città",
+        "author": "Charles Dickens",
+        "numberOfPages": "378",
+        "publisher": "Newton Compton Editori",
+        "price": "4,65",
+        "bookCover": "https://pubsocproject.s3.us-east-2.amazonaws.com/copertine/a1.jpg",
+        "yearOfPublication": "2016"
+      }
+    ]
+  },
+  {
+    "unit_id": "unit_6",
+    "token_input": "FPEORBF",
+    "token_output": "FJAHNC1",
+    "documents": [
+      {
+        "title": "Le avventure di Pinocchio",
+        "author": "C. Collodi",
+        "numberOfPages": "313",
+        "publisher": "Einaudi",
+        "price": "71,25",
+        "bookCover": "https://pubsocproject.s3.us-east-2.amazonaws.com/copertine/c1.jpg",
+        "yearOfPublication": "2008"
+      },
+      {
+        "title": "Il nome della rosa",
+        "author": "Umberto Eco",
+        "numberOfPages": "719",
+        "publisher": "Bompiani",
+        "price": "16,00",
+        "bookCover": "https://pubsocproject.s3.us-east-2.amazonaws.com/copertine/b3.jpg",
+        "yearOfPublication": "2012"
+      },
+      {
+        "title": "Le due città",
+        "author": "Charles Dickens",
+        "numberOfPages": "412",
+        "publisher": "CreateSpace Independent Publishing Platform",
+        "price": "11,43",
+        "bookCover": "https://pubsocproject.s3.us-east-2.amazonaws.com/copertine/a2.jpg",
+        "yearOfPublication": "2016"
+      }
+    ]
+  }
+]

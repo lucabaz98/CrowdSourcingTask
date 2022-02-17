@@ -1,0 +1,148 @@
+[
+  {
+    "name": "AcquisterestiQuestoLibro",
+    "description": "Acquisteresti questo libro?",
+    "justification": false,
+    "url": false,
+    "scale": {
+      "type": "categorical",
+      "mapping": [
+        {
+          "label": "si",
+          "description": "si",
+          "value": "si"
+        },
+        {
+          "label": "no",
+          "description": "no",
+          "value": "no"
+        }
+      ]
+    },
+    "gold_question_check": false,
+    "style": {
+      "position": "top",
+      "separator": false,
+      "type": "matrix",
+      "orientation": false
+    }
+  },
+  {
+    "name": "IlPrezzoTiSembraAdeguato",
+    "description": "Il prezzo ti sembra adeguato?",
+    "justification": false,
+    "url": false,
+    "scale": {
+      "type": "categorical",
+      "mapping": [
+        {
+          "label": "si",
+          "description": "si",
+          "value": "si"
+        },
+        {
+          "label": "no",
+          "description": "no",
+          "value": "no"
+        }
+      ]
+    },
+    "gold_question_check": false,
+    "style": {
+      "position": "top",
+      "separator": false,
+      "type": "matrix",
+      "orientation": false
+    }
+  },
+  {
+    "name": "PrezzoQuantoAdeguato",
+    "description": "Indica quanto ti sembra adeguato da 0 (poco adeguato) a 5 (tanto adeguato)",
+    "justification": false,
+    "url": false,
+    "scale": {
+      "type": "interval",
+      "min": 0,
+      "max": 5,
+      "step": 1
+    },
+    "gold_question_check": false,
+    "style": {
+      "position": "bottom",
+      "type": "list",
+      "orientation": "vertical",
+      "separator": false
+    }
+  },
+  {
+    "name": "lettoAltriLibriDiQuestoAutore",
+    "description": "Hai letto altri libri di questo autore?",
+    "justification": false,
+    "url": false,
+    "scale": {
+      "type": "categorical",
+      "mapping": [
+        {
+          "label": "si",
+          "description": "si",
+          "value": "si"
+        },
+        {
+          "label": "no",
+          "description": "no",
+          "value": "no"
+        }
+      ]
+    },
+    "gold_question_check": false,
+    "style": {
+      "position": "bottom",
+      "separator": false,
+      "type": "matrix",
+      "orientation": false
+    }
+  },
+  {
+    "name": "LettoQuestoLibro",
+    "description": "Hai letto questo libro?",
+    "justification": false,
+    "url": false,
+    "scale": {
+      "type": "categorical",
+      "mapping": [
+        {
+          "label": "si",
+          "description": "si",
+          "value": "si"
+        },
+        {
+          "label": "no",
+          "description": "no",
+          "value": "no"
+        }
+      ]
+    },
+    "gold_question_check": false,
+    "style": {
+      "position": "bottom",
+      "separator": false,
+      "type": "matrix",
+      "orientation": false
+    }
+  },
+  {
+    "name": "impressioneEdizione",
+    "description": "Che impressione hai di questa edizione?",
+    "justification": {
+      "text": "Scrivi almeno dieci parole",
+      "min_words": 10
+    },
+    "gold_question_check": false,
+    "style": {
+      "position": "bottom",
+      "type": "list",
+      "orientation": "vertical",
+      "separator": false
+    }
+  }
+]

@@ -1,0 +1,31 @@
+[
+  {
+    "caption": "Avvertenze",
+    "steps": [
+      "Queste istruzioni possono essere consultate anche durante il task.",
+      "Non chiudere la finestra in cui il worker sta eseguendo il task, in caso non si può finire.",
+      "Il worker può controllare il suo progresso in cima alla pagina.",
+      "Quando il worker avrà finito, gli verrà ritornato un codice univoco che dimostra di aver completato il task. Consegnalo",
+      "Completanto il task, il worker fornisce il permesso di raccogliere e utilizzare i dati da lui forniti.",
+      "Questo task è un progetto per il corso di Social Computing-2020/2021."
+    ]
+  },
+  {
+    "caption": "Obbiettivo",
+    "steps": [
+      "Stiamo conducendo uno studio per raccogliere giudizi relativi su diverse edizioni di libri."
+    ]
+  },
+  {
+    "caption": "Istruzioni",
+    "steps": [
+      "1. Il worker dovrà rispondere in modo adeguato a 5 domande riguardanti i gusti letterali e ciò che pensa della lettura.",
+      "2. Nelle tre pagine successive verranno mostrati 3 libri diversi. Per ogni libro sono presenti le infomazioni in una tabella.",
+      "Il worker dovrà rispondere in modo adeguato a:",
+      "         - due domande a riposta multipla",
+      "         - uno slider",
+      "         - un testo da scrivere di almeno 10 parole",
+      "         - due domande a risposta multipla."
+    ]
+  }
+]

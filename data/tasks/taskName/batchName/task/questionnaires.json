@@ -1,0 +1,69 @@
+[
+  {
+    "type": "standard",
+    "questions": [
+      {
+        "name": "ScelgoUnLibroInBaseA",
+        "text": "Scelgo un libro in base a:",
+        "answers": [
+          "autore",
+          "copertina",
+          "titolo",
+          "trama",
+          "consiglio delle persone"
+        ]
+      },
+      {
+        "name": "parolaAssociataAllaLettura",
+        "text": "La prima parola che ti viene in mente quando pensi alla lettura:",
+        "answers": [
+          "cultura/conoscenza",
+          "relax/svago",
+          "emozioni positive",
+          "emozioni negative"
+        ]
+      },
+      {
+        "name": "QualeGenereTiPiaceLeggere",
+        "text": "Quale genere ti piace leggere?",
+        "answers": [
+          "giallo/thriller",
+          "avventura/azione",
+          "romanzo/rosa",
+          "fantascienza/fantasy",
+          "biografico/autobiografico",
+          "saggio"
+        ]
+      },
+      {
+        "name": "QuantePagineLeggiAllaSettimana",
+        "text": "Quante pagine leggi alla settimana?",
+        "answers": [
+          "da 0 a 25 pagine",
+          "da 25 a 100 pagine",
+          "da 100 a 300 pagine",
+          "più di 300 pagine"
+        ]
+      },
+      {
+        "name": "QuantoSeiDispostoSpenderePerUnSingoloLibro",
+        "text": "Quanto sei disposto a spendere per un singolo libro?",
+        "answers": [
+          "tra 0 e 10 euro",
+          "tra 10 e 50 euro",
+          "tra 50 e 100 euro",
+          "più di 100 euro"
+        ]
+      },
+      {
+        "name": "QualeFormatoDiLibroPreferisci?",
+        "text": "Quale formato di libro utilizzi maggiormente?",
+        "answers": [
+          "e-book",
+          "audiolibro",
+          "cartaceo"
+        ]
+      }
+    ]
+  }
+]
